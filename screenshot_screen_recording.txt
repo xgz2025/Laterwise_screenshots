@@ -1,13 +1,9 @@
 ipad
  |
  |--Chinese
- |     |-add_article.mov  -- sccren recording for adding a PDF article
  |     |-airline_ticket.png -- screenshot of a added airline ticket
  |     |-article.png        -- screenshot of a added aritcle
  |     |-highlight.png      -- screenshot of a added URL wth highlight
- |     |-ipad_airline_ticket_cn.mov  -- screen recording for adding an airline ticket
- |     |-ipad_highlight_save_and_open_cn.mov -- screen recording for adding a highlight and open it from Laterwise
- |     |-online_shopping_product_add_price_compare.mov  -- screen recording for adding products from online shopping and doing price comparison.
  |     |-price_compare.png -- screenshot of price comparison
  |     |-settings.png -- screenshot for settings
  |
