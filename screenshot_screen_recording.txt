@@ -1,0 +1,99 @@
+ipad
+ |
+ |--Chinese
+ |     |-add_article.mov  -- sccren recording for adding a PDF article
+ |     |-airline_ticket.png -- screenshot of a added airline ticket
+ |     |-article.png        -- screenshot of a added aritcle
+ |     |-highlight.png      -- screenshot of a added URL wth highlight
+ |     |-ipad_airline_ticket_cn.mov  -- screen recording for adding an airline ticket
+ |     |-ipad_highlight_save_and_open_cn.mov -- screen recording for adding a highlight and open it from Laterwise
+ |     |-online_shopping_product_add_price_compare.mov  -- screen recording for adding products from online shopping and doing price comparison.
+ |     |-price_compare.png -- screenshot of price comparison
+ |     |-settings.png -- screenshot for settings
+ |
+ |--English
+ |     |-Add_Article.mov  -- sccren recording for adding a PDF article
+ |     |-add_ticket.mov   -- screen recording for adding an airline ticket
+ |     |-airline_ticket.png -- screenshot of a added airline ticket
+ |     |-Highlight.png -- screenshot of a added URL wth highlight
+ |     |-Later_list.png -- Later list
+ |     |-online_shopping_product_add_price_compare.mov -- screen recording for adding products from online shopping and doing price comparison.
+ |     |-Online_shopping_product.png -- screenshot of an added online shopping product
+ |     |-price_compare.png -- screenshot of price comparison
+ |     |-Settings.png -- screenshot for settings
+ |     |-welcome.png -- screenshot of Welcome screen
+ |     
+iPhone
+ |
+ |--Chinese
+ |     |-Add_products_from_taobao_JD.MP4      -- Add products from JD and Taobao
+ |     |-create_group_and_compare_price.MP4   -- Create a user group to compare prices (apple.com.cn, Pinduoduo)
+ |     |-online_shopping_price_comparing.mp4  -- Price comparison
+ |     |-Price_Compare_Chinese.PNG            -- Screenshot for price comparison in Chinese
+ |     |-Welcome_Chinese.PNG                  -- Welcom screen in Chinese
+ |
+ |--Add_Article.mov      -- screen recording for adding an ariticle
+ |--airline_ticket.mp4   -- screen recording for adding an ticket
+ |--Airline_ticket.PNG   -- screenshot of an added ticket
+ |--Article.PNG          -- screenshot of an added aritcle
+ |--book_pages_scan.mov  -- screen recording for scanning pages of a book
+ |--highlight.mov        -- screen recording for adding a highlight and opening it
+ |--Highlight.PNG        -- screenshot of an added hightlight
+ |--Later_List.PNG       -- screenshot of Later list
+ |--Next_Action.PNG      -- screenshot of Next Action
+ |--online_shopping_price_comparing.mov -- screen recording for price comparison
+ |--Price_Compare.PNG           -- screenshot of price comparison
+ |--Result_Scan_Price_Tag.PNG   -- screenshot of scanning a price tag
+ |--Scan_Price_Tag.JPG          -- Photo of scanning a price tag
+ |--Screenshots.PNG             -- screenshot of Screenshots
+ |--Weekly_Review.PNG           -- screenshot of Weekly Review
+ |
+iPhone_Dou
+ |
+ |--Chinese
+ |     |-add_product_and_compare_price.mp4  -- recording to add products and comparing prices (Taobao, JD, apple.com.cn)
+ |     |-airline_ticket.mp4                 -- recording to add a ticket
+ |     |-article.mp4                        -- recording to add an article
+ |     |-highlight.mp4                      -- recording to add a highlight and open it
+ |     |-inner_highlight.png                -- screenshot for a highlight on the inner display
+ |     |-inner_later_list.png               -- screenshot of the Later list on the inner display
+ |     |-inner_price_compare.png            -- screenshot of price comparison on the innter display
+ |     |-outside_highlight.png              -- screenshot for a highlight on the outside display
+ |     |-outside_later_list.png             -- screenshot of the Later list on the outside display
+ |     |-outside_main.png                   -- screenshot of Main screen on the outside display
+ |     |-outside_ticket.png                 -- screenshot of a added ticket on the outside display
+ |
+ |--English
+ |     |-airline_ticket.mp4  -- recording to add a ticket
+ |     |-Article.mov         -- recording to add an article
+ |     |-highlight.mov       -- recording to add a highlight and open it
+ |     |-inner_article.png   -- screenshot for an added article on the inner display
+ |     |-inner_highlight.png        -- screenshot for a highlight on the inner display
+ |     |-inner_later_list.png       -- screenshot of the Later list on the inner display
+ |     |-inner_price_compare.png    -- screenshot of price comparison on the innter display
+ |     |-inner_ticket.png           -- screenshot of a added ticket on the inner disaply
+ |     |-online_shopping_add_and_compare_price.mp4  -- recording to add products and comparing prices (Apple.com Amazon, Target, Bestbuy)
+ |     |-outside_article.png           -- screenshot for an added article on the outside display
+ |     |-outside_highlight.png         -- screenshot for a highlight on the outside display
+ |     |-outside_later_list.png        -- screenshot of the Later list on the outside display
+ |     |-outside_main.png              -- screenshot of Main screen on the outside display
+ |     |-outside_price_compare.png     -- screenshot of price comparison on the outside display
+ |     |-outside_ticket.png            -- screenshot of a added ticket on the outside display
+ |
+Mac
+ |
+ |-add_article.mov            -- recording to add an article
+ |-add_highlight_and_open_highlight.mov -- recording to add a highlight and open it
+ |-add_online_shopping_products_and_compare_price.mov -- recording to add products and comparing prices (apple.com, Amazon.com, Bestbuy.com)
+ |-add_ticket.mov          -- recording to add a ticket
+ |-Airline_ticket.png      -- screenshot of a added ticket
+ |-Article.png             -- screenshot for an added article
+ |-Highlight.png           -- screenshot for a highlight
+ |-Later_list_Chinese.png  -- screenshot of Later List in Chinese
+ |-Later_list.png          -- screenshot of Later List
+ |-Paywall.png                -- screenshot of Paywall
+ |-price_compare_Chinese.png  -- screenshot of price comparison in Chinese
+ |-Price_compare.png          -- screenshot of price comparison
+ |-produces_add_and_price_compare_Chinese.mov -- recording to add products and comparing prices in Chinese (Apple.com.cn, Taobao, JD)
+
+
